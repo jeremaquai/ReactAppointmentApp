@@ -22,7 +22,7 @@
 <h3 align="center">Codecademy Challenge Project: Appointment Planner</h3>
 
   <p align="center">
-    project_description
+    This is my final solution for the Codecademy Challenge Project, Appointment Planner.  This project came with a few hurdles because at the time of completion I still seem to be struggling with the concept of function components over class components in React.  However, whenever I would find myself stuck or lost on a concept, I was able to turn to the Codecademy forums and see how other learners were able to solve the problems that i was not and learn from them
     <br />
     <a href="https://github.com/jeremaquai/ReactAppointmentApp"><strong>Explore the docs »</strong></a>
     <br />
@@ -68,9 +68,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Appointment Planner Screen Shot][product-screenshot]]()
+[![Appointment Planner Screen Shot 2][product-screenshot2]]()
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `jeremaquai`, `ReactAppointmentApp`, `twitter_handle`, `jeremiah-sparks-0ba36a239`, `gmail`, `jeremaquai`, `Codecademy Challenge Project: Appointment Planner`, `project_description`
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -81,11 +82,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 * [Node.js](https://nextjs.org/)
 * [React.js](https://reactjs.org/)
 * [React Router](https://reactrouter.com/en/main)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -94,8 +91,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+
 
 ### Prerequisites
 
@@ -131,7 +127,7 @@ To get a local copy up and running follow these simple example steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+This web based app can be used to keep track of contacts and any appointments that you may have with these contacts.  This project is on the Front End Engineer Career Path, so therefore there is no Back End coding available for this project at this time and any information that has been entered and stored in the app will be lost apon refreshing the page of the browser. 
 
 _For help with React, please refer to the [Documentation](https://reactjs.org/docs/getting-started.html)_
 
@@ -142,10 +138,15 @@ _For help with React, please refer to the [Documentation](https://reactjs.org/do
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [x] Nav Bar
+    - [x] Contacts NavLink
+    - [x] Appointsments NavLink
+- [x] Contacts Page
+    - [x] Add Contact Form
+    - [x] Contacts List
+- [x] Appointments Page
+    - [x] Add Appointment Form
+    - [x] Appointments List
 
 See the [open issues](https://github.com/jeremaquai/ReactAppointmentApp/issues) for a full list of proposed features (and known issues).
 
@@ -183,7 +184,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - jeremaquai@gmail.com
+Jeremiah Sparks  - jeremaquai@gmail.com
 
 Project Link: [https://github.com/jeremaquai/ReactAppointmentApp](https://github.com/jeremaquai/ReactAppointmentApp)
 
@@ -194,9 +195,9 @@ Project Link: [https://github.com/jeremaquai/ReactAppointmentApp](https://github
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [LozPilafas](https://github.com/LozPilafas/appointment-manager)
+* [Jolijn0101](https://github.com/Jolijn0101/appointment-planner)
+* [asmafarhat2006](https://github.com/asmafarhat2006/routing)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -216,4 +217,5 @@ Project Link: [https://github.com/jeremaquai/ReactAppointmentApp](https://github
 [license-url]: https://github.com/jeremaquai/ReactAppointmentApp/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/jeremiah-sparks-0ba36a239
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/appointmentPlannerScreenShot1.png
+[product-screenshot2]: images/appointmentPlannerScreenShot2.png
